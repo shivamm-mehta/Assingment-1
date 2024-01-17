@@ -14,15 +14,33 @@ footer {
 }
 
 header {
-    background-color: black;
-    color: #fff;
-    text-align: start;
-    padding: 1em 0;
-    margin-right: 1em;
+  color: black;
+  text-align: start;
+  padding: 1em 0;
+  margin-right: 1em;
+}
+.navbar {
+  overflow: hidden;
 }
 
-h1{
-    margin-left: 1rem;
+.navbar ul {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+h1 {
+  margin-left: 1rem;
 }
 
 .main {
@@ -34,8 +52,8 @@ h1{
   box-shadow: 0 0 10px gray;
 }
 
-.content{
-    text-align: justify;
+.content {
+  text-align: justify;
 }
 img {
   max-width: 100%;
@@ -58,5 +76,3 @@ a {
   text-decoration: none;
   font-weight: bold;
 }
-
-
