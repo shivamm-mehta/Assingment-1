@@ -21,6 +21,8 @@ header {
 }
 .navbar {
   overflow: hidden;
+  display: flex;
+  justify-content: end;
 }
 
 .navbar ul {
