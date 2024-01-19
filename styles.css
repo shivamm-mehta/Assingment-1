@@ -1,5 +1,5 @@
 body {
-  background-color: #f4f4f4;
+  background-color: beige;
   font-family: "Arial", sans-serif;
   margin: 0;
   padding: 0;
@@ -8,7 +8,7 @@ body {
 
 footer {
   background-color: black;
-  color: #fff;
+  color: beige;
   text-align: center;
   padding: 1em 0;
 }
@@ -49,7 +49,7 @@ h1 {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: beige;
   border-radius: 5px;
   box-shadow: 0 0 10px gray;
 }
@@ -74,7 +74,7 @@ ul {
 }
 
 a {
-  color: #4285f4;
+  color: #435e8a;
   text-decoration: none;
   font-weight: bold;
 }
